@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0a11d0ce-4d7f-4c97-b6fc-2729c44b0dad": {
+      "ProjectGuid": "0a11d0ce-4d7f-4c97-b6fc-2729c44b0dad",
+      "DisplayName": "Calendar",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
